@@ -4,7 +4,7 @@ Ce programme est conçu pour initier les enfants de 8 ans à la programmation av
 
 ---
 
-## **Séance 1 : Découverte de Scratch et animation simple**
+## **Séance 1 : Découverte de Scratch et premiers pas**
 
 ### **Objectifs**
 - Découvrir l'interface de Scratch.
@@ -16,75 +16,101 @@ Ce programme est conçu pour initier les enfants de 8 ans à la programmation av
    - Présentation de l'éditeur.
    - Exploration des personnages (sprites), de la scène, et des blocs de code.
 
-2. **Premier projet : Le chat qui danse**
+2. **Premier projet : Le chat qui danse (partie 1)**
    - Ajouter un sprite (le chat par défaut).
-   - Utiliser des blocs pour le faire bouger :
+   - Utiliser des blocs simples :
      - "Quand le drapeau vert est cliqué".
      - "Avancer de 10 pas".
-     - "Dire 'Bonjour !' pendant 2 secondes".
-   - Ajouter un son pour rendre l'animation plus vivante.
+   - Découverte des options de déplacement.
 
 3. **Partage et discussion**
-   - Les enfants montrent leur animation à leurs camarades.
+   - Les enfants montrent leurs premiers essais à leurs camarades.
 
 ---
 
-## **Séance 2 : Introduction aux boucles et conditions**
+## **Séance 2 : Animation et exploration des sons**
+
+### **Objectifs**
+- Compléter une animation simple.
+- Découvrir l’ajout de sons dans Scratch.
+
+### **Activités**
+1. **Rappel des concepts précédents**
+   - Discussion sur ce qui a été appris lors de la première séance.
+
+2. **Suite du projet : Le chat qui danse (partie 2)**
+   - Ajouter un bloc "Dire 'Bonjour !' pendant 2 secondes".
+   - Introduire un son (par exemple : "miou") pour accompagner l’animation.
+
+3. **Personnalisation**
+   - Modifier les couleurs ou les costumes du sprite.
+
+4. **Partage et retour**
+   - Les enfants partagent leurs créations améliorées.
+
+---
+
+## **Séance 3 : Boucles et variables**
 
 ### **Objectifs**
 - Apprendre à utiliser les boucles pour répéter des actions.
-- Découvrir les conditions ("si… alors").
-- Créer une interaction simple.
-
-### **Activités**
-1. **Rappel et extension**
-   - Révision rapide des concepts de la première séance.
-   - Ajouter une boucle "répéter indéfiniment" pour animer le sprite en continu.
-
-2. **Projet : Attrape-moi si tu peux**
-   - Ajouter un nouveau sprite (par exemple, une balle ou un papillon).
-   - Programmer le sprite pour qu'il se déplace automatiquement.
-   - Ajouter une interaction :
-     - "Si le chat touche la balle, dire 'Attrapé !' pendant 2 secondes".
-
-3. **Partage et défis**
-   - Les enfants partagent leurs projets.
-   - Défi : Modifier les mouvements du sprite pour le rendre plus difficile à attraper.
-
----
-
-## **Séance 3 : Variables et personnalisation de projets**
-
-### **Objectifs**
 - Comprendre et utiliser des variables pour suivre des scores.
-- Personnaliser des projets en changeant les arrière-plans et les sprites.
 
 ### **Activités**
-1. **Introduction aux variables**
+1. **Introduction aux boucles**
+   - Présenter le bloc "répéter indéfiniment".
+   - Montrer comment une action peut être répétée sans fin.
+
+2. **Introduction aux variables**
    - Créer une variable "score".
-   - Ajouter des blocs pour augmenter le score à chaque interaction (par exemple, lorsque le chat attrape la balle).
+   - Utiliser des blocs pour augmenter le score à chaque interaction (par exemple, lorsque le chat touche un objet).
 
-2. **Personnalisation**
-   - Changer l’arrière-plan de la scène (exemple : un parc ou une plage).
-   - Modifier ou ajouter des sons et des animations.
+3. **Projet : Une danse interactive**
+   - Ajouter un deuxième sprite (par exemple, une balle).
+   - Créer une interaction : "Si le chat touche la balle, augmenter le score de 1".
+   - Ajouter une boucle pour animer en continu le mouvement de la balle.
 
-3. **Projet : Jeu de score**
-   - Les enfants combinent les concepts appris pour créer un jeu où le but est d'attraper un objet le plus souvent possible.
+4. **Partage et discussion**
+   - Les enfants montrent comment leur score évolue au fil des interactions.
 
 ---
 
-## **Séance 4 : Création d'un projet libre**
+## **Séance 4 : Interactions avec des conditions**
 
 ### **Objectifs**
+- Découvrir les conditions ("si… alors").
+- Créer une interaction entre deux sprites.
+
+### **Activités**
+1. **Introduction aux conditions**
+   - Présenter le bloc "si… alors".
+   - Expliquer comment une action peut être déclenchée par un événement.
+
+2. **Projet : Attrape-moi si tu peux (partie 1)**
+   - Ajouter un deuxième sprite (par exemple, une balle ou un papillon).
+   - Programmer un déplacement simple pour le deuxième sprite.
+   - Introduire une interaction : "Si le chat touche la balle, dire 'Attrapé !'".
+
+3. **Partage**
+   - Les enfants testent et partagent leurs projets.
+
+---
+
+## **Séance 5 : Projet libre et consolidation**
+
+### **Objectifs**
+- Consolider les concepts appris (boucles, conditions, et variables).
 - Encourager la créativité en permettant aux enfants de créer leurs propres projets.
-- Consolider les concepts appris.
 
 ### **Activités**
 1. **Récapitulatif des concepts**
-   - Revoir les boucles, conditions, et variables.
+   - Revoir les boucles, conditions, et ajout de sons.
 
 2. **Projet libre**
-   - Les enfants imaginent et programment leur propre jeu ou animation en utilisant les blocs vus pendant les séances précédentes.
+   - Les enfants imaginent et programment leur propre jeu ou animation.
+   - Suggestions possibles :
+     - Un jeu où le chat attrape une balle.
+     - Une danse synchronisée avec plusieurs sprites.
 
 3. **Présentation finale**
    - Chaque enfant présente son projet à la classe.
