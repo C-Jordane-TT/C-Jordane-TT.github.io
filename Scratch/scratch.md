@@ -8,7 +8,8 @@ Ce programme est conçu pour initier les enfants de 8 ans à la programmation av
 
 ### **Objectifs**
 - Découvrir l'interface de Scratch.
-- Comprendre les bases de la programmation par blocs.
+- Comprendre les bases de la programmation par blocs:
+   - Actions, évennement
 - Créer une animation simple.
 
 ### **Activités**
@@ -19,8 +20,8 @@ Ce programme est conçu pour initier les enfants de 8 ans à la programmation av
 2. **Premier projet : Le chat qui danse (partie 1)**
    - Ajouter un sprite (le chat par défaut).
    - Utiliser des blocs simples :
-     - "Quand le drapeau vert est cliqué".
-     - "Avancer de 10 pas".
+      - "Quand le drapeau vert est cliqué".
+      - "Avancer de 10 pas".
    - Découverte des options de déplacement.
 
 3. **Partage et discussion**
