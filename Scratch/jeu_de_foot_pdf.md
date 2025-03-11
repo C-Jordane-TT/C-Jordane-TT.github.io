@@ -15,16 +15,32 @@
 
 **1.1** -  Remplacer le sprite actuel par un autre sprite de votre choix (Il s'agira du premier joueur)
 
- ![Delete and select sprite](img/delete_select_sprite.png){width=200, height=200}        
-
-![Sprites](img/sprites.png){width=200, height=200}    
- 
+\begin{center}
+    \begin{minipage}{0.45\textwidth}
+        \centering
+        \includegraphics[width=5cm, height=5cm]{img/delete_select_sprite.png}
+    \end{minipage}
+    \hfill
+    \begin{minipage}{0.45\textwidth}
+        \centering
+        \includegraphics[width=5cm, height=5cm]{img/sprites.png}
+    \end{minipage}
+\end{center}
 
 
 **1.2** Lorsque le drapeau vert est cliquer, avancer de 10 pas
 
-![Quand drapeau cliqué](img/quand_drapeau_clique.png){width=200, height=100}  ![Avancer 10 pas](img/avancer_10_pas.png){width=200, height=100}
-   
+\begin{center}
+    \begin{minipage}{0.45\textwidth}
+        \centering
+        \includegraphics[width=6cm, height=3cm]{img/quand_drapeau_clique.png}
+     \end{minipage}
+    \hfill
+    \begin{minipage}{0.45\textwidth}
+        \centering
+            \includegraphics[width=6cm, height=3cm]{img/avancer_10_pas.png}
+        \end{minipage}
+\end{center}
 
 
 **Felicitation vous venez de completer votre premiere animation!!!**
